@@ -67,7 +67,7 @@
       "#16171A"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#DEDEDE"
+      "#abafba"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "#272727"
@@ -88,7 +88,7 @@
       "#adc8ff"
     ],
     "CHAT_BACKGROUND": [
-      "#222429"
+      "#2e3138"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
       "#DEDEDE"
@@ -103,7 +103,7 @@
       "#272727"
     ],
     "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
-      "#DEDEDE"
+      "#abafba"
     ]
   },
   "rawColors": {
