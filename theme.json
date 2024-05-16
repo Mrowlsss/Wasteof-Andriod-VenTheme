@@ -28,7 +28,7 @@
       "#B9B9B9"
     ],
     "TEXT_LINK": [
-      "#5078B4"
+      "#b2c7f7"
     ],
     "TEXT_DANGER": [
       "#F04040"
@@ -46,13 +46,13 @@
       "#676767"
     ],
     "BACKGROUND_PRIMARY": [
-      "#16171A"
+      "#1b1a1e"
     ],
     "BACKGROUND_SECONDARY": [
-      "#16171A"
+      "#404759"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#16171A"
+      "#404759"
     ],
     "BACKGROUND_TERTIARY": [
       "#0f1012"
@@ -79,7 +79,7 @@
       "#283C5A"
     ],
     "BACKGROUND_MENTIONED": [
-      "#283C5A"
+      "#b3acc8ff"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#283C5A"
